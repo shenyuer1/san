@@ -234,8 +234,10 @@
 // 	}
 // 	document.write('</tr>');
 // }
-// 
-// 
+
+
+
+
 // document.write('</table>');
 // var table='<table border="1px solid #000" cellspacing="0" cellpadding="10px">';
 // for(i=1;i<=10;i++){
